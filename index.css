@@ -1,0 +1,66 @@
+.pantry {
+    background-color: blue;
+    width: 500px;
+    height: 400px;
+    float: inline-start; 
+    margin: 200px;
+    padding: 100px;
+    text-align: center;
+}
+
+.freezer {
+    
+    background-color: yellow;
+    width: 500px;
+    height: 400px;
+    float: inline-end;
+    margin-right: 400px;
+    margin-top: 200px;
+    padding: 100px;
+    text-align: center;
+}
+
+#canned {
+    background-color: chocolate;
+    margin: 20px;
+    height: 130px;
+    width: 150px;
+    float: left;
+    text-align: center;
+}
+
+#Dry {
+    background-color: darkgoldenrod;
+    margin:20px;
+    height: 130px;
+    width: 150px;
+    float: right;
+    margin-left: 30px;
+    text-align: center;
+}
+
+#Veggies {
+    
+    background-color: green;
+    margin: 20px;
+    height: 130px;
+    width: 150px;
+    float: right;
+    text-align: center;
+}
+
+#Snacks {
+    
+    background-color: red;
+    margin: 20px;
+    height: 130px;
+    width: 150px;
+    float: left;
+    text-align: center;
+}
+
+/* .freezer-pic {
+    height: 200px;
+    width: 200px;
+    float: center;
+} */
