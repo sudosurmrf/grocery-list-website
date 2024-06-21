@@ -74,6 +74,7 @@ h3 {
     background-color: cyan;
     width: 100px;
     margin-left: 60px;
+    border-style:inset;
 }
 
 .background {
