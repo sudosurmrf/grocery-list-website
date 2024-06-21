@@ -6,6 +6,8 @@
     margin: 200px;
     padding: 100px;
     text-align: center;
+    border-style: solid;
+    border-color: white;
 }
 
 .freezer {
@@ -18,6 +20,8 @@
     margin-top: 200px;
     padding: 100px;
     text-align: center;
+    border-radius: 90px;
+    border-style: solid;
 }
 
 #canned {
@@ -64,3 +68,18 @@
     width: 200px;
     float: center;
 } */
+
+h3 {
+    background-color: cyan;
+    width: 100px;
+    margin-left: 60px;
+}
+
+.background {
+    background-image: url(https://assets.bonappetit.com/photos/57d84031ad12fb0855e5922e/master/w_1600%2Cc_limit/undefined);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
